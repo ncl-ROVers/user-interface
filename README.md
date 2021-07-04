@@ -183,3 +183,8 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
+
+
+# Notes
+
+ioredis requieres changes - replace each "net" lib occurrence with "net-browserify"
